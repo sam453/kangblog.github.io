@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 关于我「ABOUT ME」 
-date: 2017-03-01 
+title: 关于「ABOUT ME」 
+date: 2018-08-22 
 ---
 <a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/%E5%A4%A9%E7%AD%96.jpg" width="150" height="150" alt="photos"/></a>
 
