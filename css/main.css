@@ -64,7 +64,7 @@ html {
 body {
   font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   font-size: 14px;
-  color: #333;
+  color: #666666;
   -webkit-font-smoothing: antialiased; }
 
 ::selection {
@@ -106,48 +106,31 @@ h5 {
   color: #333333;
   -webkit-font-smoothing: antialiased; }
 
-h1 {
-  font-size: 2.1em;
-  margin-top: 0;
-  /*line-height: 0em;*/
-  /*letter-spacing: .05em;*/ 
-  border-radius: 4px; 
-  font-weight:300 
-}
-
-h2 {
-  font-size: 1.5em; 
-  padding: 8px 20px;
-  background: #87CEFF;
-  border-radius: 4px; 
-  box-shadow: 0px 5px 5px #9FB6CD;
-  border-left: 6px solid #228B22; 
-  /*text-align: center;*/
-  /*background:#B9D3EE;*/
+  h1 {
+    margin-top: 0;
+    font-size: 2.5em;
+    line-height: 1.2em;
+    letter-spacing: .05em;
+   }
   
-}
-
-h3 {
-  font-size: 1.2em; 
-  text-indent: 4px; 
-  border-radius: 4px; 
-  padding: 6px 15px;
-  margin-bottom: 20px;
-  margin-top: 5px;
-  background:#B9D3EE;
-  /*0px right, 5px botton, 5px fuzzy*/
-  box-shadow: 0px 5px 5px #9FB6CD;
-  border-left: 6px solid #1874CD; 
-  position:relative;
-}
-
-h4 {
-  font-size: 1.2em; 
-  padding: 6px 15px;
-}
+  h2 {
+    font-size: 2.0em; }
+  
+  h3 {
+    font-size: 1.6em; 
+  }
+  
+  h4 {
+    font-size: 1.2em; 
+  }
+  
+  h4 {
+    font-size: 1.1em; 
+  }
 
 h5 {
-  font-size: 1em; }
+  font-size: 1em; 
+}
 
 p {
   margin-bottom: 10px;
@@ -349,13 +332,9 @@ img::-moz-selection {
   }
 
   .excerpt {
-    border-left: 3px solid #458B74; 
     margin: 0;
-    margin-right: 10px;
     font-size: .9em;
-    background-color: #DBDBDB;
-    text-indent: 10px;
-    color: #4F4F4F; 
+    color: #999999; 
   }
 
   .intro {
@@ -818,40 +797,9 @@ img::-moz-selection {
     padding: 0;
     list-style-type: none;
     text-align: left; 
-    display: inline-block;
   }
   .post-list li {
     margin: 0 0 2.2em 0;
-    float: left;
-
-    -moz-box-shadow:4px 4px 4px #efefef, 
-    -4px -4px 4px #efefef, 
-    4px -4px 4px #efefef, 
-    -4px 4px 4px #efefef; 
-    -webkit-box-shadow:4px 4px 4px #efefef, 
-    -4px -4px 4px #efefef, 
-    4px -4px 4px #efefef, 
-    -4px 4px 4px #efefef; 
-    box-shadow:4px 4px 4px #efefef, 
-    -4px -4px 4px #efefef, 
-    4px -4px 4px #efefef, 
-    -4px 4px 4px #efefef;
-  }
-  .post-list li:hover {
-    /*transform:scale(1.01,1.01); */
-    -moz-box-shadow:4px 4px 4px #c9e1f6, 
-    -4px -4px 4px #c9e1f6, 
-    4px -4px 4px #c9e1f6, 
-    -4px 4px 4px #c9e1f6; 
-    -webkit-box-shadow:4px 4px 4px #c9e1f6, 
-    -4px -4px 4px #c9e1f6, 
-    4px -4px 4px #c9e1f6, 
-    -4px 4px 4px #c9e1f6; 
-    box-shadow:4px 4px 4px #c9e1f6, 
-    -4px -4px 4px #c9e1f6, 
-    4px -4px 4px #c9e1f6, 
-    -4px 4px 4px #c9e1f6;
-    /*background-color: #F5FFFA;*/
   }
 
   .post-list li:last-child hr {
@@ -873,7 +821,6 @@ img::-moz-selection {
     color: #000000; 
     background-color: #FAFAFA;
   }
-}
 
 .post-list__meta {
   display: block;
