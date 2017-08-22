@@ -1,10 +1,9 @@
 ---
 layout: page
-title: 关于「ABOUT WE」 
-date: 2018-08-22 
+title: 关于《无敌英雄》
+date: 2017-08-22 
 ---
 
-## 《无敌英雄》
 <img src="/images/h5r-main.png" alt="img"/>
 
 ### 声明
