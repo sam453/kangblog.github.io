@@ -6,8 +6,9 @@ title: 留言板「MESSAGE」
 <img src="/images/avatar.jpg" alt="huanying"/>
 
 
-<p><h3>这里是畅所欲言的地方</h3>     
-<p><h4>欢迎吐槽、暴击、拍砖、提交bug等等。。。。。。</h4>   
+<p><h4>这里是畅所欲言的地方</h4>    
+<p><h4>欢迎吐槽、暴击、拍砖等等。。。。。。</h4>  
+</br> 
 <p>
 <!--<audio autoplay="autopaly" controls="controls" loop="loop"  preload="auto" id="audio1">
 	<source src="http://omjh2j5h3.bkt.clouddn.com/%E6%9D%8E%E7%8E%89%E5%88%9A%20-%20%E5%88%9A%E5%A5%BD%E9%81%87%E8%A7%81%E4%BD%A0.mp3" type="audio/mp3">你的浏览器不支持audio标签</a>
