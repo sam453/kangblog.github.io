@@ -1,80 +1,27 @@
 ---
 layout: page
-title: 关于「ABOUT ME」 
+title: 关于「ABOUT WE」 
 date: 2018-08-22 
 ---
-<a href="/photos/" target="_blank"><img src="http://omjh2j5h3.bkt.clouddn.com/%E5%A4%A9%E7%AD%96.jpg" width="150" height="150" alt="photos"/></a>
 
-<p>
-一个即将走出象牙塔的 Maker「未更新」<a href="{{ site.baseurl }}/jianli.pdf" target="_blank"> 「我的简历」 </a>    
+## 《无敌英雄》
+<img src="/images/h5r-main.png" alt="img"/>
 
+### 声明
+>本作品是英雄无敌爱好者组成的独立开发组，以《英雄无敌五：东方部落》为模仿对象，用Unity3D引擎制作并维护的非商业学习作品。此作品中绝大部分的图片、文字、模型来源于《英雄无敌五：东方部落》或网络，素材版权归法国育碧娱乐软件公司所有。试玩本作品后对《英雄无敌五：东方部落》有兴趣的玩家可以去育碧娱乐软件公司官网及相关网站了解和购买正版作品，本作品不做任何商业用途，英雄无敌系列发扬光大是本作品作者最大的愿望。
 
-<div style="color:#FF6633">
-<p>	三尺微命，一介书生。求学于卫星湖畔，黄瓜山下，欲潜心研究智能机器人开发应用之道。然所学颇杂，对诸多方面均有涉猎，喜欢研究一些新技术和关注一些最新的科技~
-</p>
-</div>
-<p>
-平时喜欢整理个人博客，逛逛技术论坛     
-<p>
-喜欢日本，想着如果有机会一定会去日本生活一段时间        
-<div style="color:#008B00">
-<p>
-喜欢Spoken English，虽然现在很渣，但一直在努力...        
-</p>
+### 关于
+对于期待完整的英雄无敌五的体验的人，这只能算一款复刻类游戏的半成品，毕竟很多人在意的冒险模式没有完成复刻（实际上，真要全部复刻已经不存在任何技术方面的问题，只是工作量）；但对于英雄无敌五玩家中的某类玩家小圈子，比如10w爱好者和残局爱好者，它被视作飞跃性的优化作品也不会太过分，因为目前的产品进度已经在某些方面与原作拉开了差距，比如网络联机便利性，同一个环节的简化程度，策略的可视化程度等等。
 
-</div>
-<p>
-同时喜欢老罗和晓松，虽然他俩还撕逼，罗跟谁不撕逼，爱听老罗的单口相声           
-<p>
-I’m a single-dog.  But codes and godgirl are my favorite.  Life is colorful, this website   is a window which used to present the color of my life.       
+相较于其它，我们更在意的是，让玩家有理由相信，国内独立开发组完全能够胜任复杂度如英雄无敌系列的策略游戏的开发（至少在逻辑层面），我们能提供更开放的内容拓展，更友好的UGC内容制作工具，更重视玩家反馈的迭代风格，更具有融入诸如社交、直播、成就、互联网开发等新时代游戏元素和科技元素的可能性。
 
-<p>
+我们致力于昭示一种可能性，一种国内独立开发组不但可以复刻出来，而且可以平衡好，做好版本更新，恰如其分的引入新的元素与机制，创造新的种族、宝物、魔法、战争机器，甚至新的原版中没有出现过的奇奇怪怪但是有趣的东西，目前，这种可能性的展示才刚刚启动。
 
-<h3> PastTime</h3>   
+甚至，再远一些，也许我们还能证明战棋类策略游戏并不完全如很多人想象的那样属于在这个时代再也扶不起来的游戏类型，对于可以尝试各种类型游戏开发的我们，基于这个共识，才凝聚在一起研究原型并在我们的体系内再现，复刻是对我们分析开发能力的自证，对于再创造，我们并不畏惧，甚至相当期待。
 
-<p>
+我们无意以剽窃者的身份掠夺他人的成果，所以这款作品将是一款学习作品，不用于任何形式的商业活动，不作为商业内产品发售。我们虽不富裕，但遵守游戏规则。
 
+但是如果大厂继续以以往这种轻慢的态度和上世纪的开发模式肆意收割玩家的热情与期盼，我们也不排除联合玩家一起进行一场反抗，建立起属于我们的玩家和开发组之间的更和谐的新型关系。当然，如果这一切不发生，英雄无敌的粉丝得到了足够的尊重与重视，我们也丝毫不介意像以往一样，以一个幸福的玩家的角色期待大厂的诚意之作。
 
-也许你听说过，「业余时间决定人生」；也许你还听说过，「听过很多道理，依然过不好这一生」。书籍、代码、博客、运动、电影、美剧、游戏，这就是我的业余生活。            
-
-
-<div style="color:#708090">
-<p>
-     我的能力就这么多。我若全心工作，则必然忽略生活；我若用心生活，则必然一事无成；我若两者兼顾，又难免平庸
-</p>
-</div>
-<p>
-趁我在还能看得进书写得动代码的年纪，努力一回，看看这平庸的资质究竟能发挥几分。
-
-<p>
-
-<h3> Ps </h3>   
-<p>
-如果你想搭建一个跟我一样的博客，可以看
-<a href="/2017/03/HowToCreateBlog/"> Jekyll+Github个人博客构建之路 </a>
-教程
-
-<p>
-
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
-
-<p> 
-
-博客源码在 <a target="_blank" href='https://github.com/MengZheK/kangblog.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
-<h3> 联系方式 </h3>         
-<script>
-	function mousemethod(op,imgid){
-	document.getElementById(imgid).style.display=op;
-	}
-</script>
-
-<p>邮箱：robotkang@foxmail.com &emsp;<a href="#" onmouseover="mousemethod('block','img1')" onmouseout="mousemethod('none','img1')" style="color:#FF4500;text-decoration:none">微信：kang1390305137</a><img id="img1" src="http://omjh2j5h3.bkt.clouddn.com/kangweix.png" style="display:none;"  width="128" height="128">&emsp;
-	<a href="#" onmouseover="mousemethod('block','img2')" onmouseout="mousemethod('none','img2')" style="color:#008B00;text-decoration:none">公众号：robotkang</a><img id="img2" src="http://omjh2j5h3.bkt.clouddn.com/kanggzh.png" style="display:none;" width="128" height="128" >
- 
-<p>
-<a href="/lovekang/" style="color:#708090"  target="_blank"> <h5>Website Time</h5></a>  
-</p>
-
-
-
+### 制作者名单
+>Unicorn25、Sam、YellowZebra97、Real
