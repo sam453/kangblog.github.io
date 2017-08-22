@@ -530,8 +530,8 @@ img::-moz-selection {
     background-size: cover; }
 
   .panel-cover--collapsed {
-    width: 22%;
-    max-width: 320px; }
+    width: 27%;
+    max-width: 500px; }
 
   .panel-cover--overlay {
     display: block;
