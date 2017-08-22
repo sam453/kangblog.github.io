@@ -3,12 +3,11 @@ layout: page
 title: 留言板「MESSAGE」 
 ---
 
-<img src="http://omjh2j5h3.bkt.clouddn.com/2345%E6%88%AA%E5%9B%BE20170318141303_%E7%9C%8B%E5%9B%BE%E7%8E%8B.jpg" width="360" height="250" alt="huanying"/>
+<img src="/images/avatar.jpg" alt="huanying"/>
 
 
-<p><h4>有什么话要对我说吗？</h4>     
-<P><h4>这里是你畅所欲言的地方，可以咨询，</h4>
-<p><h4>可以交流，可以感叹，可以发飙，但不可以订外卖 、、、</h4>   
+<p><h3>这里是畅所欲言的地方</h3>     
+<p><h4>欢迎吐槽、暴击、拍砖、提交bug等等。。。。。。</h4>   
 <p>
 <!--<audio autoplay="autopaly" controls="controls" loop="loop"  preload="auto" id="audio1">
 	<source src="http://omjh2j5h3.bkt.clouddn.com/%E6%9D%8E%E7%8E%89%E5%88%9A%20-%20%E5%88%9A%E5%A5%BD%E9%81%87%E8%A7%81%E4%BD%A0.mp3" type="audio/mp3">你的浏览器不支持audio标签</a>
@@ -19,10 +18,10 @@ title: 留言板「MESSAGE」
  
 <object width="330" height="180" data="http://music.163.com/style/swf/widget.swf?sid=441877316&type=0&auto=1&width=310&height=430" type="application/x-shockwave-flash"></object>  
           
-  </div> 
+</div>
 -->
 
-
+<!-- 
 <div id="QPlayer" class="QPlayer">
 <div id="pContent">
 	<div id="player">
@@ -98,7 +97,7 @@ function setHalfVolume()
   myVid.volume=0.2;
   } 
 
-</script> 
+</script>  -->
 
 
 <!-- 多说评论框 start 
