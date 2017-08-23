@@ -1,3 +1,17 @@
+.btn-group.open .btn-danger.dropdown-toggle {
+	background-color: #b32b21;
+}
+
+.btn-primary .caret,.btn-warning .caret,.btn-danger .caret,.btn-info .caret,.btn-success .caret,.btn-inverse .caret {
+	border-top-color: #ffffff;
+	border-bottom-color: #ffffff;
+}
+
+.btn-primary.active,.btn-warning.active,.btn-danger.active,.btn-success.active,.btn-info.active,.btn-inverse.active {
+	color: rgba(255, 255, 255, 0.75);
+}
+
+
 .btn-danger {
 	color: #ffffff;
 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
@@ -19,4 +33,8 @@
 	color: #ffffff;
 	background-color: #b32b21;
 	*background-color: #9d261d;
+}
+
+.btn-danger:active,.btn-danger.active {
+	background-color: #872119 \9;
 }
