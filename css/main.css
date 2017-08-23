@@ -332,8 +332,9 @@ img::-moz-selection {
   }
 
   .excerpt {
-    margin: 0;
-    font-size: .9em;
+    max-width: 1000px;
+    margin: 0 auto;
+    font-size: 1.0em;
     color: #999999; 
   }
 
