@@ -333,8 +333,8 @@ img::-moz-selection {
 
   .excerpt {
     max-width: 1000px;
-    margin: 0 auto;
-    font-size: 1.0em;
+    margin: 0;
+    font-size: 1.1em;
     color: #999999; 
   }
 
