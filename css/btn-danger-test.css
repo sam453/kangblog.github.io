@@ -1,0 +1,22 @@
+.btn-danger {
+	color: #ffffff;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	background-color: #cc4036;
+	background-image: -moz-linear-gradient(top, #dc4e44, #b32b21);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#dc4e44), to(#b32b21));
+	background-image: -webkit-linear-gradient(top, #dc4e44, #b32b21);
+	background-image: -o-linear-gradient(top, #dc4e44, #b32b21);
+	background-image: linear-gradient(to bottom, #dc4e44, #b32b21);
+	background-repeat: repeat-x;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffdc4e44', endColorstr='#ffb32b21', GradientType=0);
+	border-color: #b32b21 #b32b21 #721c15;
+	border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+	*background-color: #b32b21;
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+
+.btn-danger:hover,.btn-danger:focus,.btn-danger:active,.btn-danger.active,.btn-danger.disabled,.btn-danger[disabled] {
+	color: #ffffff;
+	background-color: #b32b21;
+	*background-color: #9d261d;
+}
