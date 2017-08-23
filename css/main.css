@@ -334,7 +334,7 @@ img::-moz-selection {
   .excerpt {
     max-width: 1000px;
     margin: 0;
-    font-size: 1.1em;
+    font-size: 1.0em;
     color: #999999; 
   }
 
@@ -819,8 +819,8 @@ img::-moz-selection {
    padding-left: 10px;
   }
   .post-list__post-title a:hover {
-    color: #000000; 
-    background-color: #FAFAFA;
+    color: #7b0f19; 
+    /* background-color: #FAFAFA; */
   }
 
 .post-list__meta {
