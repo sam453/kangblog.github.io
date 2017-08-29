@@ -7,8 +7,8 @@ title: 留言板「MESSAGE」
 
 
 <p><h4>这里是畅所欲言的地方</h4>    
-<p><h4>欢迎吐槽、暴击、拍砖等等。。。。。。</h4>  
-</br> 
+<p><h4>欢迎吐槽、暴击、拍砖等等。。。。。。</h4>
+  
 <p>
 <!--<audio autoplay="autopaly" controls="controls" loop="loop"  preload="auto" id="audio1">
 	<source src="http://omjh2j5h3.bkt.clouddn.com/%E6%9D%8E%E7%8E%89%E5%88%9A%20-%20%E5%88%9A%E5%A5%BD%E9%81%87%E8%A7%81%E4%BD%A0.mp3" type="audio/mp3">你的浏览器不支持audio标签</a>
@@ -135,9 +135,9 @@ var duoshuoQuery = {short_name:"robotkang"};
        // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
        av: AV, 
        el: '.comment', // 
-       app_id: '5z3QHKTEMlSqxReRnfeFG1cC-gzGzoHsz', // 这里填写上面得到的APP ID
-       app_key: '59CrEdy9yw1xmqcDQ4JcJbWy', // 这里填写上面得到的APP KEY
-       placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊!' // [v1.0.7 new]留言框占位提示文字
+       app_id: 'n58qyLiuuSFcLQFJ9Ev1PrUf-gzGzoHsz', // 这里填写上面得到的APP ID
+       app_key: 'xTIBP9jct2QrcFcoqFlMcGSj', // 这里填写上面得到的APP KEY
+       placeholder: '请留下您的脚印。。。' // [v1.0.7 new]留言框占位提示文字
        });
 </script>
 </body>
