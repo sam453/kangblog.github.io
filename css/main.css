@@ -823,6 +823,15 @@ img::-moz-selection {
   display: block;
 }
 
+.post-list__meta-tags{
+  font-size: 16px;
+  color: #b6b6b6; 
+}
+
+.post-list__meta-tags :hover{
+  color: #333337; 
+}
+
 .tag-img-icon img{
   margin-top: 5px;
   margin-left: 5px;
