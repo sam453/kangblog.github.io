@@ -819,7 +819,6 @@ img::-moz-selection {
   .post-list__post-title a {
    color: #333333; 
    padding-top: 5px;
-   padding-left: 10px;
   }
   .post-list__post-title a:hover {
     color: #b6b6b6; 
