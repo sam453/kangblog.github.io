@@ -496,8 +496,7 @@ img::-moz-selection {
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Hiragino Sans GB", "WenQuanYi Micro Hei", Verdana, Arial, sans-serif;
     font-size: 0.8em;/*自留地*/
     font-weight: lighter;
-    letter-spacing: 3px;
-    color:#FF0000;
+    color:#fff;
     -webkit-font-smoothing: antialiased; }
 
   .panel-cover {
