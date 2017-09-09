@@ -12,9 +12,9 @@ layout: default
       <p class="excerpt">{{ post.content | strip_html | strip_newlines | truncate: 250 }}&hellip;</p>
       
       <div class="post-list__meta">        
-        <time datetime="{{post.date | date: date_to_xmlschema}}" >{{ post.date | date: "%F"}}</time> 
+        <time datetime="{{post.date | date: date_to_xmlschema}}" >{{ post.date | date: "%F"}}&nbsp;&nbsp;&nbsp;&nbsp;</time> 
         <img src="/images/tag-icon.svg" width="16px" height="16px"/>
-        <a href="/tags">{{ post.tags }}</a>
+        <a href="/tags" class="post-list__meta">{{ post.tags }}</a>
       </div>
       
       <hr class="post-list__divider" />
