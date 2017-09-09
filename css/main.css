@@ -808,9 +808,10 @@ img::-moz-selection {
   }
 
   .post-list__post-title {
-   margin-top: 5px;
-    margin-bottom: .2em;
+    margin-top: 0px;
+    margin-bottom: 10px;
     font-size: 1.5em;
+    font-weight: 700;
     line-height: 1.3em;
   }
   .post-list__post-title a {
@@ -819,8 +820,7 @@ img::-moz-selection {
    padding-left: 10px;
   }
   .post-list__post-title a:hover {
-    color: #7b0f19; 
-    /* background-color: #FAFAFA; */
+    color: #b6b6b6; 
   }
 
 .post-list__meta {
