@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 下载列表
+title: 资源下载
 ---
   
   
 ### **游戏下载**
 
-**1、最新版本：** <a class="btn btn-lg btn-success" href="http://ughorse.ufile.ucloud.com.cn/h5r_launcher.7z">
+**最新版本：** <a class="btn btn-lg btn-success" href="http://ughorse.ufile.ucloud.com.cn/h5r_launcher.7z">
     <i class="fa fa-download fa-lg" aria-hidden="true"></i>&nbsp;0.4.9.11.alpha
 </a>
   
