@@ -790,11 +790,14 @@ img::-moz-selection {
       display: none; 
   }
 
+  .post-title .post-list__post-title {
+    font-weight: 700;
+  }
+
   .post-list__post-title {
     margin-top: 0px;
     margin-bottom: 10px;
     font-size: 1.5em;
-    font-weight: 700;
     line-height: 1.3em;
   }
   .post-list__post-title a {
