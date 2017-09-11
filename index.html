@@ -13,7 +13,8 @@ layout: default
       
       <div class="post-list__meta">        
         <time datetime="{{post.date | date: date_to_xmlschema}}" >{{ post.date | date: "%F"}}&nbsp;&nbsp;&nbsp;&nbsp;</time> 
-        <img src="/images/tag-icon.svg" width="16px" height="16px"/>
+        <!-- <img src="/images/tag-icon.svg" width="16px" height="16px"/> -->
+        <i class="fa fa-tag" aria-hidden="true" width="16px" height="16px"></i>
         <a href="/tags" class="post-list__meta-tags">{{ post.tags }}</a>
       </div>
       
