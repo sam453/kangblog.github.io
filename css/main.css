@@ -767,8 +767,8 @@ img::-moz-selection {
       display: none; 
   }
 
-  .post-title .post-list__post-title {
-    font-weight: 700;
+  .post-list__post-title .post-title {
+    font-weight: 700!important;
   }
 
   .post-list__post-title {
