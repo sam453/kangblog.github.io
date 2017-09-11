@@ -617,7 +617,7 @@ img::-moz-selection {
     font-size: 0.6em;
   }
 
-  .btn, .navigation__flink_item a {
+.navigation__flink_item a {
     display: block;
     text-align: left;  
     margin-left: 10px;
@@ -627,7 +627,7 @@ img::-moz-selection {
     border-bottom: 0.1px solid #666;
     text-shadow: none;
   }
-  .btn:hover, .navigation__flink_item a:hover {
+.navigation__flink_item a:hover {
     color: #fff;
     border-color: #fff; 
   }
@@ -648,16 +648,6 @@ img::-moz-selection {
   .btn-tertiary:hover {
     color: #737373;
     border-color: #737373; 
-  }
-
-  .btn-large {
-    padding: 10px 24px;
-    font-size: 1.1em; 
-  }
-
-  .btn-small {
-    padding: 8px 12px;
-    font-size: 0.7em; 
   }
 
   .btn-mobile-menu {
@@ -698,7 +688,7 @@ img::-moz-selection {
   }
 
 /*blog导航栏*/
-  .btn, .navigation__item a {
+  .navigation__item a {
     display: inline-block;
     margin-right: 0px;
     padding: 5px 5px 5px 5px;
