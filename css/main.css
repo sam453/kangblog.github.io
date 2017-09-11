@@ -767,8 +767,8 @@ img::-moz-selection {
       display: none; 
   }
 
-  .post-list__post-title .post-title {
-    font-weight: 700!important;
+ .post-title {
+    font-weight: 700;
   }
 
   .post-list__post-title {
@@ -776,6 +776,7 @@ img::-moz-selection {
     margin-bottom: 10px;
     font-size: 1.5em;
     line-height: 1.3em;
+    font-weight: 700;
   }
   .post-list__post-title a {
    color: #333333; 
