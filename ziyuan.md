@@ -6,7 +6,7 @@ title: 资源「USEFUL LINKS」
 ### *无敌英雄Launcher下载地址*
 
 <a class="btn btn-lg btn-success" href="http://ughorse.ufile.ucloud.com.cn/h5r_launcher.7z">
-    <i class="fa fa-download fa-2x pull-left" aria-hidden="true"></i>点击下载<br>0.4.9.11.alpha
+    <i class="fa fa-download fa-3x pull-left" aria-hidden="true"></i>点击下载<br>0.4.9.11.alpha
 </a>
   
   
