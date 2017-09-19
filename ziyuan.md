@@ -14,10 +14,10 @@ title: 资源下载
 ----    
 #### 相关链接
 * [丑马工作室 B站主页](https://space.bilibili.com/146758908#!/)
-* [丑马工作室贴吧](https://tieba.baidu.com/f?kw=%E4%B8%91%E9%A9%AC%E5%B7%A5%E4%BD%9C%E5%AE%A4)
+* [丑马工作室 贴吧](https://tieba.baidu.com/f?kw=%E4%B8%91%E9%A9%AC%E5%B7%A5%E4%BD%9C%E5%AE%A4)
 
 ----
-#### Q群 183246701   
+#### Q群：183246701   
 
 ![](/images/qq-183246701.png)
 
