@@ -17,13 +17,11 @@ title: 资源下载
 * [丑马工作室贴吧](https://tieba.baidu.com/f?kw=%E4%B8%91%E9%A9%AC%E5%B7%A5%E4%BD%9C%E5%AE%A4)
 
 ----
-<div>
-<h4>Q群：183246701</h4>
-<img style="float: left" src="/images/qq-183246701.png" alt="" />
-</div>
+#### Q群 183246701   
+
+![](/images/qq-183246701.png)
 
 ----
-<div>
-<h4>微信公众号：ughorse</h4>
-<img style="float: left" src="/images/wexin-ughorse.png" alt="" />
-</div>
+#### 微信公众号：ughorse
+
+![](/images/wexin-ughorse.png)
