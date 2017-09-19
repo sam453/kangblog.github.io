@@ -3,7 +3,7 @@ layout: page
 title: 资源下载
 ---
   
-  
+----  
 #### **游戏下载**
 
 **最新版本：** <a class="btn btn-lg btn-success" href="http://ughorse.ufile.ucloud.com.cn/h5r_launcher.7z">
@@ -19,9 +19,9 @@ title: 资源下载
 ----
 #### Q群 183246701   
 
-![](/images/qq-183246701.png)
+<img style="float: left" src="/images/qq-183246701.png" alt="" />
 
 ----
 #### 微信公众号：ughorse
 
-![](/images/wexin-ughorse.png)
+<img style="float: left" src="/images/wexin-ughorse.png" alt="" />
