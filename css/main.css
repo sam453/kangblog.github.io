@@ -439,10 +439,12 @@ img::-moz-selection {
 
   .post img {
     max-width: 100%;
-    margin: 0 auto;
+    /* margin: 0 auto; */
+    float: none;
     border-radius: 3px;
     text-align: center;
-    display: block; }
+    display: block; 
+  }
   .post pre {
     width: 95%;
     overflow: auto; }
