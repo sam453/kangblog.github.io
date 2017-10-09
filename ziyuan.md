@@ -16,7 +16,9 @@ title: 资源下载
 * [丑马工作室 B站主页](https://space.bilibili.com/146758908#!/)
 * [丑马工作室 贴吧](https://tieba.baidu.com/f?kw=%E4%B8%91%E9%A9%AC%E5%B7%A5%E4%BD%9C%E5%AE%A4)
 
-<div>
-    <div style="width:40%; float:left">Q群：183246701<br><img src="/images/qq-183246701.png"></div>
-    <div style="width:40%; float:left">微信公众号：ughorse<br><img src="/images/wexin-ughorse.png"></div>
+----
+
+<div style ="height:400px">
+    <div style="width:40%; float:left"><h4>Q群：183246701</h4><br><img src="/images/qq-183246701.png"></div>
+    <div style="width:40%; float:left"><h4>微信公众号：ughorse</h4><br><img src="/images/wexin-ughorse.png"></div>
 </div>
