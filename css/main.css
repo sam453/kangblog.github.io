@@ -379,7 +379,8 @@ img::-moz-selection {
 
   .content-wrapper__inner {
     /*margin: 0 10%;*/
-    margin-right: 60px;
+    /* margin-right: 60px; */
+    max-width: 1000px;
     padding: 50px 0; 
     /*margin: 0 auto; */
     /*width: 700px;*/
