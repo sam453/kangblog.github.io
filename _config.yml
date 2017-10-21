@@ -81,11 +81,11 @@ email: "me@daviddarnes.com"
 
 # 8. Site navigation
 navigation_header:
-  Home: /
+  主页: /
 #  Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
-  Search: /search/
+  文章: /blog/
+  标签: /categories/
+  搜索: /search/
 #  Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
