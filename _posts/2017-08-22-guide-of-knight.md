@@ -1,9 +1,6 @@
 ---
-layout: post
-title: 圣堂攻略
-date: 2017-08-22
-description:  
-tag: 圣堂
+title: 圣堂攻略 
+category: 圣堂
 --- 
 
 **声明：本攻略为 ```ll /:)``` 出品，本网站只是代为发表**

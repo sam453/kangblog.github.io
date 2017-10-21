@@ -1,84 +1,112 @@
-# Basic
-title: 丑马工作室
-subtitle: 独立游戏开发团队
-description: 欢迎来到丑马工作室~
-# 头像里面的标题
-#avatarTitle: RobotKang
-# 头像里面的描述
-#avatarDesc: Python/机器学习/嵌入式
-url: "http://ughorse.com"
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site navigation
 
-# Comment
-comment:
-    provider: duoshuo
-    duoshuo:
-     short_name: robotkang
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
 
-# Social
-social:
-    #weibo: 123456789
-    #weixing: kang1390305137 
-    #github: MengZheK
-    # twitter: 
-    mail: ughorse@foxmail.com
-    #csdn: robotkang
+# 2. Installed Gems
+gems:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
 
-# 百度统计 
-# 使用博客模板请去掉或者更换 id 
-baidu:
-    id: aae7b4871c18a5812d088f7871f234ea 
+# 3. Gem settings
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
+author: DavidDarnes # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: David Darnes # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/DavidDarnes
+    - https://www.facebook.com/daviddarnes
+    - https://www.linkedin.com/in/daviddarnes
+    - https://plus.google.com/+DavidDarnes
+    - https://github.com/daviddarnes
 
-# Google Analytics
-# 使用博客模板请去掉或者更换 id
-ga:
-   id: UA-86186965-5 
-   host: auto  
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
 
+# 5. Collections
+collections:
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: true
+    description: "My thoughts and ideas" # The post list page content
+    feature_text: |
+      Welcome to the blog
+    feature_image: "https://unsplash.it/1300/400?image=1067"
 
-# 《----------------- 上面的信息修改成你自己的 ---------------------------》
-#
-#
-#  _post/ 下的文章更换成你自己的文章
-#  帮忙star一下，感谢~😆 地址： https://github.com/MengZheK/kangblog.github.io
-#
-#
-# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
+# 6. Jekyll collections settings
+defaults:
+  -
+    values:
+      image: "/assets/default-social-image.png" # Default image for sharing
 
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+url: "http://ughorse.com" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+repo: "https://github.com/daviddarnes/alembic"
+email: "me@daviddarnes.com"
+# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 
-permalink: /:year/:month/:title/
-# Format
-highlighter: rouge
+# 8. Site navigation
+navigation_header:
+  Home: /
+  Elements: /elements/
+  Blog: /blog/
+  Categories: /categories/
+  Search: /search/
+  Fork Alembic: https://github.com/daviddarnes/alembic
 
-textColor: #FF0000
+navigation_footer:
+  Created by David Darnes: https://darn.es
 
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-#cover_color: blue
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/DavidDarnes
+  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  Google+: https://plus.google.com/+DavidDarnes
+  GitHub: https://github.com/daviddarnes
+  link: https://darn.es
+  RSS: /feed.xml
 
-# The blog button should not be removed.
-blog_button:
-    title: 博客主页
-
-# Navigation buttons in the front page.s
-nav:
-    - {title: 文章列表, description: 所有文章, url: '/archive/'}   
-    # - {title: 标签, description: tags, url: '/tags/'}   
-    # - {title: 留言, description: liuyan, url: '/liuyan/'}
-    - {title: 常见问题, description: 常见问题, url: '/qa/'}
-    - {title: 下载, description: 资源下载, url: '/ziyuan/'}
-    - {title: 关于, description: about, url: '/about/'}
-
-          
-    
-
-# Pagination
-gems: [jekyll-paginate]
-paginate: 20
-paginate_path: "page/:num/"
-
-
-valine:
-  enable: true
-  appId: n58qyLiuuSFcLQFJ9Ev1PrUf-gzGzoHsz
-  appKey: xTIBP9jct2QrcFcoqFlMcGSj
-
-
+sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
+  Twitter: "#1DA1F2"
+  facebook: "#3B5998"
+  Google+: "#DC4E41"
+  # Pinterest: "#BD081C"
+  # LinkedIn: "#0077B5"
+  # tumblr: "#36465D"
+  # Reddit: "#FF4500"
+  # Hacker News: "#ff6600"
+  # Designer News: "#2D72D9"
+  # Email: ""

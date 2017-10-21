@@ -1,9 +1,6 @@
 ---
-layout: post
-title: 学院攻略
-date: 2017-08-22
-description:  
-tag: 学院
+title: 学院攻略 
+category: 学院
 --- 
 
 **声明：本攻略为 ```ll /:)``` 出品，本网站只是代为发表**

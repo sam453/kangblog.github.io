@@ -1,9 +1,6 @@
 ---
-layout: post
-title: 地狱攻略
-date: 2017-08-22
-description:  
-tag: 地狱
+title: 地狱攻略 
+category: 地狱
 --- 
 
 **声明：本攻略为 ```ll /:)``` 出品，本网站只是代为发表**

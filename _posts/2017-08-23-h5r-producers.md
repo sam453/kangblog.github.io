@@ -1,9 +1,6 @@
 ---
-layout: post
 title: 《无敌英雄》制作人员名单
-date: 2017-08-23
-description:  
-tag: 制作组
+category: 制作组
 ---
 ## 制作组名单
   

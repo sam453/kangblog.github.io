@@ -1,49 +1,33 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.lang | default: "en-US" }}">
+	<head>
+		<!-- General meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% include head.html %}
+		{% if page.indexing == false %}
+			<meta name="robots" content="noindex">
+		{% endif %}
 
-  <body style="height:1000px;">
+		{% if page.collectionpage %}
+			{% seo title=false %}
 
-    <span class="mobile btn-mobile-menu">        
-      <div class="nav_container">
-         <nav class="nav-menu-item" style = "float:right">
-            <i class="nav-menu-item">
-              <a href="/#blog" title="{{site.blog_button.description}}" class="blog-button">  {{site.blog_button.title}}
-              </a>
-            </i>
-            {% for item in site.nav %}
-                <i class="nav-menu-item">
+			{% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+			<title>{{ collectiondata.title }} - {{ site.title }}</title>
+			<meta property="og:title" content="{{ collectiondata.title }}">
+			<meta name="description" content="{{ collectiondata.description }}">
+			<meta property="og:description" content="{{ collectiondata.description }}">
+		{% else %}
+			{% seo %}
+		{% endif %}
 
-                  <a href="{{item.url}}" title="{{item.description}}" class="btn-mobile-menu__icon">
-                      {{item.title}}
-                  </a>
-                </i>
-            {% endfor %}
-          </nav>
-      </div>
-    </span>
+    <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
 
+		{% if site.avatarurl %}{% include site-favicons.html %}{% endif %}
+	</head>
+	<body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
+		{% include site-icons.svg %}
 
-    {% include side-panel.html %}
+		{{ content }}
 
-    <div class="content-wrapper">
-        <div class="content-wrapper__inner">
-            {{ content }}
-            {% include footer.html %}
-        </div>
-    </div>
-    
-    {% include external.html %}
-    
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-
-<!-- <script type="text/javascript">
-var isindex = true;
-var visitor = true;
-</script> -->
-
-
-</body>
-
+	</body>
 </html>

@@ -1,9 +1,6 @@
 ---
-layout: post
-title: 墓地攻略
-date: 2017-08-22
-description:  
-tag: 墓地
+title: 墓地攻略 
+category: 墓地
 --- 
 
 **声明：本攻略为 ```ll /:)``` 出品，本网站只是代为发表**

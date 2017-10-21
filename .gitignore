@@ -1,6 +1,7 @@
 _site/
 .sass-cache/
-*.DS_Store
-.idea
-*.swp
-.Trashes
+.jekyll-metadata
+alembic-jekyll-theme-*.gem
+Gemfile.lock
+**/Gemfile.lock
+

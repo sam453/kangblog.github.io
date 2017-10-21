@@ -1,9 +1,6 @@
 ---
-layout: post
 title: 森林攻略
-date: 2017-08-22
-description:  
-tag: 森林
+category: 森林
 --- 
 
 **声明：本攻略为 ```ll /:)``` 出品，本网站只是代为发表**
