@@ -53,7 +53,7 @@ timezone: China/ShangHai # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: 文章 # Needed for Siteleaf
+    title: 文章列表 # Needed for Siteleaf
     output: true
     description: "" # The post list page content
     feature_text: |

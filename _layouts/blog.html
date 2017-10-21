@@ -17,7 +17,7 @@ layout: default
 
 			{% else %}
 				<h1>{{ page.title }}</h1>
-				{{ content }}
+				{{ content | strip_html | strip_newlines | truncate: 250 }}&hellip;
 				
 			{% endif %}
 
