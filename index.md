@@ -32,4 +32,6 @@ Download 最新版本 ：{% include button.html text="0.9.4.15.alpha" link="http
 
 - 观战模式：你可以通过移动端观看好友或大神的对决，并指点江山。充分满足你在地铁，公交，餐厅充当“嘴强王者”的需求。
 
+![](/images/mode-select.gif)
+
 
