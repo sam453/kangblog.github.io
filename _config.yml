@@ -48,14 +48,14 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: China/ShangHai # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: 文章 # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "" # The post list page content
     feature_text: |
       Welcome to the blog
     feature_image: "https://unsplash.it/1300/400?image=1067"
@@ -69,9 +69,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+title: "丑马工作室" # Site name or title, also used in jekyll-seo-tag
+logo: "/images/avatar.jpg" # Site logo, also used in jekyll-seo-tag
+description: "独立游戏开发团队" # Site description and default description, also used in jekyll-seo-tag
 url: "http://ughorse.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
@@ -82,27 +82,27 @@ avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # 
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
+#  Elements: /elements/
   Blog: /blog/
   Categories: /categories/
   Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
+#  Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Created by 丑马工作室: http://ughorse.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+#  Twitter: https://twitter.com/DavidDarnes
+#  LinkedIn: https://www.linkedin.com/in/daviddarnes
+#  Google+: https://plus.google.com/+DavidDarnes
+  GitHub: https://github.com/sam453/sam453.github.io
+#  link: https://darn.es
+#  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
-  Twitter: "#1DA1F2"
-  facebook: "#3B5998"
-  Google+: "#DC4E41"
+#  Twitter: "#1DA1F2"
+#  facebook: "#3B5998"
+#  Google+: "#DC4E41"
   # Pinterest: "#BD081C"
   # LinkedIn: "#0077B5"
   # tumblr: "#36465D"
