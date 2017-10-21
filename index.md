@@ -7,9 +7,9 @@ feature_image: "https://unsplash.it/1300/400?image=971"
 excerpt: ""
 ---
 
-「无敌英雄（heroes 5 resurrection）」是一款极具挑战的传统回合制策略游戏，是法国育碧娱乐软件公司推出的「英雄无敌五-东方部落」的非商业同人游戏作品。它在经典的英雄无敌五代游戏框架基础上，吸收了英雄无敌系列历代作品的优秀元素，创造了一个包罗万象的魔幻世界。游戏中“英雄”作为核心角色，率领着由传说中的生物组成的军队，彼此征战。
+『无敌英雄（heroes 5 resurrection）』是一款极具挑战的传统回合制策略游戏，是法国育碧娱乐软件公司推出的『英雄无敌五-东方部落』的非商业同人游戏作品。它在经典的英雄无敌五代游戏框架基础上，吸收了英雄无敌系列历代作品的优秀元素，创造了一个包罗万象的魔幻世界。游戏中“英雄”作为核心角色，率领着由传说中的生物组成的军队，彼此征战。
 
-{% include button.html text="Download 0.9.4.15.alpha" link="http://ughorse.ufile.ucloud.com.cn/h5r_launcher.7z" %}
+最新版本 0.9.4.15.alpha ：{% include button.html text="Download 0.9.4.15.alpha" link="http://ughorse.ufile.ucloud.com.cn/h5r_launcher.7z" %}
 
 ## 极为丰富的游戏内容
 
