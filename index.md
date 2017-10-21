@@ -4,12 +4,12 @@ feature_text: |
   ## 丑马工作室
   独立游戏开发团队
 feature_image: "https://unsplash.it/1300/400?image=971"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: ""
 ---
 
 《无敌英雄（heroes 5 resurrection）》是一款极具挑战的传统回合制策略游戏，是法国育碧娱乐软件公司推出的《英雄无敌五-东方部落》的非商业同人游戏作品。它在经典的英雄无敌五代游戏框架基础上，吸收了英雄无敌系列历代作品的优秀元素，创造了一个包罗万象的魔幻世界。游戏中“英雄”作为核心角色，率领着由传说中的生物组成的军队，彼此征战。
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#1DA1F2" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Tip me $5 💸" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+{% {% include button.html text="Download 0.9.4.15.alpha" link="http://ughorse.ufile.ucloud.com.cn/h5r_launcher.7z" %} %}
 
 ## 极为丰富的游戏内容
 
