@@ -70,7 +70,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "丑马工作室" # Site name or title, also used in jekyll-seo-tag
-logo: "/images/avatar.jpg" # Site logo, also used in jekyll-seo-tag
+logo: "/images/avatar.png" # Site logo, also used in jekyll-seo-tag
 description: "独立游戏开发团队" # Site description and default description, also used in jekyll-seo-tag
 url: "http://ughorse.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
