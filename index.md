@@ -1,8 +1,10 @@
 ---
 title: 无敌英雄
 feature_text: |
-  ## 丑马工作室
-  独立游戏开发团队
+	<div class="container  typeset">
+		<h2 id="丑马工作室" style="color:white">丑马工作室</h2>
+		<p style="color:white">独立游戏开发团队</p>
+	</div>
 feature_image: "http://ughorse-1251375465.cosgz.myqcloud.com/head1.png"
 excerpt: ""
 ---
