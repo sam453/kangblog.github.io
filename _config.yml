@@ -89,7 +89,12 @@ navigation_header:
 #  Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Created by 丑马工作室: http://ughorse.com
+  B站: https://space.bilibili.com/146758908#!/
+  贴吧: https://tieba.baidu.com/f?kw=%E4%B8%91%E9%A9%AC%E5%B7%A5%E4%BD%9C%E5%AE%A4&ie=utf-8
+# 微信公众号: "ughorse"
+#  QQ 群: "183246701"
+#  Email: "ughorse@foxmail.com"
+#  Created by 丑马工作室: http://ughorse.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 #  Twitter: https://twitter.com/DavidDarnes
@@ -106,7 +111,4 @@ sharing_links: # Appear at the bottom of single blog posts, uncomment and commen
   # Pinterest: "#BD081C"
   # LinkedIn: "#0077B5"
   # tumblr: "#36465D"
-  B站: "@丑马工作室"
-  微信公众号: "ughorse"
-  QQ 群: "183246701"
-  Email: "ughorse@foxmail.com"
+  
