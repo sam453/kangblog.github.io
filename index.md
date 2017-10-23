@@ -1,9 +1,6 @@
 ---
+layout: index_layout
 title: 无敌英雄
-feature_text: |
-  ## 丑马工作室
-  独立游戏开发团队
-feature_image: "http://ughorse-1251375465.cosgz.myqcloud.com/head1.png"
 excerpt: ""
 ---
 
