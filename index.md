@@ -1,14 +1,11 @@
 ---
 title: 无敌英雄
+feature_text: |
+  ## <font color=white>丑马工作室</font>
+  独立游戏开发团队
+feature_image: "http://ughorse-1251375465.cosgz.myqcloud.com/head1.png"
 excerpt: ""
 ---
-
-<div class="feature"style="background-image: url(http://ughorse-1251375465.cosgz.myqcloud.com/head1.png)">
-      <div class="container  typeset">
-        <h2 id="丑马工作室" style="color:white">丑马工作室</h2>
-		<p style="color:white">独立游戏开发团队</p>
-      </div>
-</div>
 
 『无敌英雄（heroes 5 resurrection）』是一款极具挑战的传统回合制策略游戏，是法国育碧娱乐软件公司推出的『英雄无敌五-东方部落』的非商业同人游戏作品。它在经典的英雄无敌五代游戏框架基础上，吸收了英雄无敌系列历代作品的优秀元素，创造了一个包罗万象的魔幻世界。游戏中「英雄」作为核心角色，率领着由传说中的生物组成的军队，彼此征战。
 
