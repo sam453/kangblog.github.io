@@ -1,13 +1,16 @@
 ---
 title: 无敌英雄
-feature_text: |
-		<h2 id="丑马工作室" style="color:white">丑马工作室</h2>
-		<p style="color:white">独立游戏开发团队</p>
-feature_image: "http://ughorse-1251375465.cosgz.myqcloud.com/head1.png"
 excerpt: ""
 ---
 
-『无敌英雄（heroes 5 resurrection）』是一款极具挑战的传统回合制策略游戏，是法国育碧娱乐软件公司推出的『英雄无敌五-东方部落』的非商业同人游戏作品。它在经典的英雄无敌五代游戏框架基础上，吸收了英雄无敌系列历代作品的优秀元素，创造了一个包罗万象的魔幻世界。游戏中“英雄”作为核心角色，率领着由传说中的生物组成的军队，彼此征战。
+<div class="feature"style="background-image: url(http://ughorse-1251375465.cosgz.myqcloud.com/head1.png)">
+      <div class="container  typeset">
+        <h2 id="丑马工作室" style="color:white">丑马工作室</h2>
+		<p style="color:white">独立游戏开发团队</p>
+      </div>
+</div>
+
+『无敌英雄（heroes 5 resurrection）』是一款极具挑战的传统回合制策略游戏，是法国育碧娱乐软件公司推出的『英雄无敌五-东方部落』的非商业同人游戏作品。它在经典的英雄无敌五代游戏框架基础上，吸收了英雄无敌系列历代作品的优秀元素，创造了一个包罗万象的魔幻世界。游戏中「英雄」作为核心角色，率领着由传说中的生物组成的军队，彼此征战。
 
 Download 最新版本 ：{% include button.html text="0.9.4.15.alpha" link="http://ughorse.ufile.ucloud.com.cn/h5r_launcher.7z" %}
 
@@ -30,7 +33,7 @@ Download 最新版本 ：{% include button.html text="0.9.4.15.alpha" link="http
 
 - 冒险模式：保留了英雄无敌原有系统的大部分游戏元素（ps：城建，资源收集，多线发展）。同时，为了加快游戏节奏，对玩法进行了大量的改良。
 
-- 观战模式：你可以通过移动端观看好友或大神的对决，并指点江山。充分满足你在地铁，公交，餐厅充当“嘴强王者”的需求。
+- 观战模式：你可以通过移动端观看好友或大神的对决，并指点江山。充分满足你在地铁，公交，餐厅充当「嘴强王者」的需求。
 
 ![](/images/mode-select.gif)
 
