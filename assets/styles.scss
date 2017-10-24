@@ -95,7 +95,7 @@ body {
 }
 
 .footer {
-  background: $headingColour;
+  background: $bodyColour;
   color: $captionColour;
   a {
     color: $captionColour;
@@ -142,6 +142,12 @@ body {
 .feature,
 .footer {
   @include flex(0, 0, auto);
+}
+
+.header{
+  .container{
+    background: $bodyColour;
+  }
 }
 
 .content {
