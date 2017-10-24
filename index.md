@@ -9,7 +9,7 @@ excerpt: ""
 
 ![](/images/h5r-main.png)
 
-**Download 最新版本** ：{% include button.html text="0.9.4.15.alpha" icon="download" link="http://ughorse.ufile.ucloud.com.cn/h5r_launcher.7z" %}
+**Download 最新版本** ：{% include button.html text="0.9.4.15.alpha" icon="download"  color="#05bf85" link="http://ughorse.ufile.ucloud.com.cn/h5r_launcher.7z" %}
 
 ### 极为丰富的游戏内容
 
