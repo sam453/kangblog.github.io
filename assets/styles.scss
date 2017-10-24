@@ -95,7 +95,7 @@ body {
 }
 
 .footer {
-  background: $bodyColour;
+  background: $footerBgColor;
   color: $captionColour;
   a {
     color: $captionColour;
@@ -145,9 +145,7 @@ body {
 }
 
 .header{
-  .container{
-    background: $bodyColour;
-  }
+    background: $footerBgColor;
 }
 
 .content {
