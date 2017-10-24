@@ -50,7 +50,7 @@ body {
 
 .feature {
   padding-bottom: .4rem;
-  margin-bottom: 1.6rem;
+//  margin-bottom: 1.6rem;
   text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
@@ -146,6 +146,7 @@ body {
 
 .header{
     background: $footerBgColor;
+    margin-bottom: 1.6rem;
 }
 
 .content {
