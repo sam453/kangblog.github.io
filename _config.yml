@@ -86,7 +86,7 @@ navigation_header:
   文章: /blog/
   标签: /categories/
   搜索: /search/
-  Demo: /demo/
+# Demo: /demo/
 #  Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
