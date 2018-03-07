@@ -84,9 +84,10 @@ navigation_header:
   主页: /
 #  Elements: /elements/
   文章: /blog/
-  标签: /categories/
-  搜索: /search/
+# 标签: /categories/
+# 搜索: /search/
 # Demo: /demo/
+  联系我们: /contact/
 #  Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
